@@ -1,6 +1,6 @@
   {
   "name": "vue-cache",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "caching npm package that fetches data from backend when it is necessary",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shehats/vue-cache.git"
+    "url": "https://github.com/Saleh95/vue-cache"
   },
   "author": "saleh shehata",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Shehats/vue-cache/issues"
+    "url": "https://github.com/Saleh95/vue-cache/issues"
   },
   "homepage": "https://github.com/Shehats/vue-cache#readme",
   "dependencies": {
